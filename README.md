@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ricardo Anjos 👋
 
 - 🔭 Hoje eu trabalho com Power Platform
-- 🌱 Estudando e melhorando minhas habilidades com JavaScript e CSS
+- 🌱 Estudando e melhorando minhas habilidades com JavaScript, HTML e CSS
 
 <div align="center">
   <a href="https://github.com/ricardojaj">
