@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ricardo Anjos 👋
 
-- 🔭 Hoje eu trabalho com Tester
+- 🔭 Hoje eu trabalho como Tester
 - 🌱 Estudando e melhorando minhas habilidades com Python
 
 <div align="center">
