@@ -4,12 +4,11 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/ricardo-jesus-1582a318b/">Ricardo Jesus 😃️</a>
   </h1>
-  
-  <ol align="center">
-    <li>🔭 Atualmente trabalho como Tester</li>
-    <li>🌱 Estudando e melhorando minhas habilidades com Python</li>
-  </ol>
 
+  <ul align="center">
+    <p>🔭 Atualmente trabalho como Tester</p>
+    <p>🌱 Estudando e melhorando minhas habilidades com Python</p>
+  </ul>
 </div>
 
 <div align="center">
