@@ -12,7 +12,7 @@ Sou um tester apaixonado por testes automatizados e garantia de qualidade de sof
 
 - **Linguagens**: Python
 - **Frameworks & Bibliotecas**: Selenium, PyTest, Unittest
-- **Ferramentas de Teste**: Webdriver, Page Objects, Postman
+- **Ferramentas de Teste**: Webdriver, Postman
 - **Controle de Versão**: Git, GitHub
 
 ## 🌟 Projetos em Destaque
