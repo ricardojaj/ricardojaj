@@ -1,21 +1,31 @@
-## Ola, eu sou o Ricardo Jesus , estudante de Analise e Desenvolvimento de sistemas!😃️
+# 👋 Olá! Eu sou [Seu Nome]
 
-Atualmente trabalho como tester, sigo estudando e melhorando minhas habilidades com testes automatizados. 🔭
- <div>
-  <a href="https://github.com/ricardojaj">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricardojaj&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojaj&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
+Sou um desenvolvedor apaixonado por testes automatizados e garantia de qualidade de software. Bem-vindo ao meu perfil no GitHub! Aqui está um pouco sobre mim e o que você encontrará por aqui.
+
+## 🚀 Sobre Mim
+
+- 🔭 Atualmente trabalhando com testes de software.
+- 🌱 Estou sempre aprendendo: **Python**, **Selenium**, **Padrão Page Object** e aprimorando minhas habilidades em automação de testes.
+- 💼 Interesses: Testes automatizados, Garantia de Qualidade e melhoria na confiabilidade de software.
+
+## 🛠️ Minhas Habilidades Técnicas
+
+- **Linguagens**: Python
+- **Frameworks & Bibliotecas**: Selenium, PyTest, Unittest
+- **Ferramentas de Teste**: Webdriver, Page Objects, Postman
+- **Controle de Versão**: Git, GitHub
+
+## 🌟 Projetos em Destaque
+
+### [Selenium Lab](https://github.com/ricardojaj/selenium-lab)
+Um projeto que automatiza testes para um site de e-commerce utilizando Selenium e o Padrão Page Object. Este projeto cobre adicionar produtos ao carrinho, finalizar a compra e testar entradas inválidas.
+
+
+## 📊 Estatísticas do GitHub
+
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ricardojaj&show_icons=true&theme=radical)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojaj&layout=compact&theme=radical)
+
 
 <div> 
     <a href="https://www.linkedin.com/in/ricardo-jesus-1582a318b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
