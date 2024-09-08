@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou [Ricardo Jesus]
 
-Sou um desenvolvedor apaixonado por testes automatizados e garantia de qualidade de software. Bem-vindo ao meu perfil no GitHub! Aqui está um pouco sobre mim e o que você encontrará por aqui.
+Sou um tester apaixonado por testes automatizados e garantia de qualidade de software. Bem-vindo ao meu perfil no GitHub! Aqui está um pouco sobre mim e o que você encontrará por aqui.
 
 ## 🚀 Sobre Mim
 
