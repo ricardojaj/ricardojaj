@@ -17,6 +17,7 @@ Sou um tester apaixonado por testes automatizados e garantia de qualidade de sof
 
 ## 🌟 Projetos em Destaque
 
+### [E-commerce com Python e Flask](https://github.com/ricardojaj/E-commerce-com-Python-e-Flask)
 ### [Selenium Lab](https://github.com/ricardojaj/selenium-lab)
 Um projeto que automatiza testes para um site de e-commerce utilizando Selenium e o Padrão Page Object. Este projeto cobre adicionar produtos ao carrinho, finalizar a compra e testar entradas inválidas.
 
