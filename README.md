@@ -4,7 +4,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como
 
 ## 📊 Estatísticas do GitHub
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ricardojaj&show_icons=true&theme=radical)
+
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardojaj&layout=compact&theme=radical)
 
 
