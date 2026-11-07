@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Ricardo Jesus
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como QA. Estou aperfeiçoando meus conhecimentos em testes automatizados com Python e compartilhando projetos que refletem minha evolução na área. 
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente trabalho como QA. Estou aperfeiçoando meus conhecimentos em testes automatizados e compartilhando projetos que refletem minha evolução na área. 
 
 ## 📊 Estatísticas do GitHub
 
